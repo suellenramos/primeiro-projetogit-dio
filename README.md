@@ -1,2 +1,2 @@
-# primeiro-projetogit-dio
-Este projeto tem objetivo de mostrar as primeiras aprendizagem com recurso git/github.
+# Primeiro-Projeto-Git-DIO
+Este projeto tem objetivo de mostrar a primeira aprendizagem do git.
