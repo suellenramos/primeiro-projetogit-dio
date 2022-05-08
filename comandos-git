@@ -1,0 +1,9 @@
+## Primeiro passos com o Git
+
+### Comandos
+
+*git init
+*git status
+*git add .
+*git commit -m "Mensagem"
+*git push origin master
